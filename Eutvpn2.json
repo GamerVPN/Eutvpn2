@@ -101,60 +101,37 @@
          "url": "https://raw.githubusercontent.com/Juessh/Eutovpn/main/Singapore-020.ovpn"
       },
 
-{
-         "name": "Singapore-Senpai-1",
-         "url": "https://raw.githubusercontent.com/Juessh/Eutovpn/main/Singapore-Senpai-001.ovpn"
-      },
-{
-         "name": "Singapore-Senpai-2",
-         "url": "https://raw.githubusercontent.com/Juessh/Eutovpn/main/Singapore-Senpai-002.ovpn"
-      },
-
-{
-         "name": "Singapore-Senpai-3",
-         "url": "https://raw.githubusercontent.com/Juessh/Eutovpn/main/Singapore-Senpai-003.ovpn"
-      },
-
-{
-         "name": "Singapore-Senpai-4",
-         "url": "https://raw.githubusercontent.com/Juessh/Eutovpn/main/Singapore-Senpai-004.ovpn"
-      },
-
-{
-         "name": "Singapore-Core-1",
-         "url": "https://raw.githubusercontent.com/Juessh/Eutovpn/main/Singapore-Core-001.ovpn"
-      },
-
+     
 {
          "name": "UnitedStates-001",
-         "url": "https://raw.githubusercontent.com/Juessh/Eutovpn/main/UnitedStates-01.ovpn"
+         "url": "https://raw.githubusercontent.com/Juessh/Eutovpn/main/US-001.ovpn"
       },
 
 {
          "name": "UnitedStates-002",
-         "url": "https://raw.githubusercontent.com/Juessh/Eutovpn/main/UnitedStates-02.ovpn"
+         "url": "https://raw.githubusercontent.com/Juessh/Eutovpn/main/US-002.ovpn"
       },
 {
          "name": "UnitedStates-003",
-         "url": "https://raw.githubusercontent.com/Juessh/Eutovpn/main/UnitedStates-03.ovpn"
+         "url": "https://raw.githubusercontent.com/Juessh/Eutovpn/main/US-003.ovpn"
       },
 
 {
          "name": "UnitedStates-004",
-         "url": "https://raw.githubusercontent.com/Juessh/Eutovpn/main/UnitedStates-04.ovpn"
+         "url": "https://raw.githubusercontent.com/Juessh/Eutovpn/main/US-004.ovpn"
       },
 
 {
          "name": "UnitedStates-005",
-         "url": "https://raw.githubusercontent.com/Juessh/Eutovpn/main/UnitedStates-05.ovpn"
+         "url": "https://raw.githubusercontent.com/Juessh/Eutovpn/main/US-005.ovpn"
       }
 
 
 
    ],
-"message":"10 December 2022\n\n•Version:1\n\n•🟢What New?🟢\n•Add SG-10 ဖိုင်✅\n•Add US-10ဖိုင်✅\n\n📢By : JueHtet📢",
-   "title":"♻️Add THAI 3 Servers♻️" ,
-   "version": 1
+"message":"21 February 2023\n\n•Version:2\n\n•🟢What New?🟢\n•Add SG-10 ဖိုင်✅\n•Add US-10ဖိုင်✅\n\n📢By : JueHtet📢",
+   "title":"♻️Fixed All Servers♻️" ,
+   "version": 2
 }
 
 
